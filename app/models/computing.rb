@@ -1,0 +1,2 @@
+class Computing < ApplicationRecord
+end
